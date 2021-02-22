@@ -21,3 +21,12 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+src/components/common/swiper/index.js
+src/components/common/swiper/Swiper.vue
+src/components/common/swiper/SwiperItem.vue
+src/network/home.js
+src/network/request.js
+src/views/home/FeatureView.vue
+src/views/home/Home.vue
+src/views/home/childComps/HomeSwiper.vue
+src/views/home/childComps/RecommendView.vue
